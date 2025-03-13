@@ -32,6 +32,8 @@ The dataset includes images of various dental diseases:
 - Precision-recall curves demonstrate model performance
 - Confusion matrix visualizes correct and incorrect classifications
 
+## Output
+![Output](https://github.com/haripatel07/DentalDiseasesClassification/blob/main/FinalOutput.png)
 ## Contributors
 - [Hari Patel](https://github.com/haripatel07)
 
