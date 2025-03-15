@@ -28,7 +28,6 @@ The dataset includes images of various dental diseases:
 
 ## Results
 - Achieved **91% test accuracy** in disease classification
-- Achieved **high accuracy** in disease classification
 - Precision-recall curves demonstrate model performance
 - Confusion matrix visualizes correct and incorrect classifications
 
